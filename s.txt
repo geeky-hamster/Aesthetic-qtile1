@@ -38,7 +38,7 @@ htop
 fzf
 ncspot
 yay-bin
-archlinux-tweak-tool-git
+archlinux-tweak-tool-dev-git
 xfce-polkit
 gvfs
 ksuperkey
