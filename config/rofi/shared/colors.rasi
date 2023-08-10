@@ -15,4 +15,4 @@
 
 /* Import color-scheme from `colors` directory */
 
-@import "/home/soham/.config/qtile/theme/rofi/colors/nord.rasi"
+@import "/home/soham/.config/rofi/colors/onedark.rasi"
