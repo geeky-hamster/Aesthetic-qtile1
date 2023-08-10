@@ -33,7 +33,7 @@ set_values() {
 
 ## Launch Polybar with selected style
 launch_bar() {
-	bash "$DIR"/polybar1/launch.sh
+	bash "$DIR"/launch.sh
 }
 
 # Execute functions
